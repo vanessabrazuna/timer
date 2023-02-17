@@ -26,6 +26,8 @@ This project was developed with the following technologies:
 - Styled Components
 - React Hook Form
 - Zod
+- Date-fns
+- ImmerJs
 - [Node e NPM](https://nodejs.org/)
 - [Vite](https://vitejs.dev/)
 
