@@ -13,7 +13,7 @@ Application created in class, promoted by Rocketseat for teaching WEB technologi
 <br>
 
 <p align="center">
-  <img alt="Timer" src="https://user-images.githubusercontent.com/73675022/209411781-bbd3b8d5-8365-44eb-a92c-206aada141d2.png" width="100%">
+  <img alt="Timer" src="https://user-images.githubusercontent.com/73675022/217668672-f46522ec-e4ab-4444-8a86-f3872683b967.png" width="100%">
 </p>
 
 ## 🚀 Technologies
